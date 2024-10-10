@@ -1,4 +1,4 @@
-# Fintech-Domain-Analytics: Loan Default Analysis
+# 💹💹💹Fintech-Domain-Analytics: Loan Default Analysis 🧮🧾📑
 
 ## 1) Problem Statement 👀
 **Minimizing Loan Default Risks**:  
@@ -8,6 +8,8 @@ The objective of this project is to analyze the impact of various factors, such 
 In addition, the project aims to investigate the correlation between financial variables such as **upfront charges**, **loan amounts**, **interest rates**, and **property values** with default tendencies. The goal is to uncover patterns that can enhance **risk assessment strategies**, enabling lenders to make more informed and proactive decisions to prevent loan defaults.
 
 ---
+![image](https://github.com/user-attachments/assets/35a00388-0d48-4887-a019-f4c7a1285f4a)
+
 
 ## 2) Expectations
 This project aims to develop a strong understanding of **risk analytics** within the **banking and financial services** sectors. The focus is on how data can be effectively leveraged to reduce the risk of loan defaults. Specifically, the project will:
